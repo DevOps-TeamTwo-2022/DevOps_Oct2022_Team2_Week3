@@ -20,5 +20,7 @@ Expected Test Outcomes:
 - User redirected to search result of "Selenium" books
 available
 
+Resultant Screenshot:
+![Resultant SS](images/test_scenario1_1.jpg)
+
 ===================================================
-Test Scenario 2
