@@ -20,7 +20,10 @@ Expected Test Outcomes:
 - User redirected to search result of "Selenium" books
 available
 
-===================================================
+Resultant Screenshot:
+![Resultant SS](images/test_scenario1_1.jpg)
+
+===================================================<br/>
 Test Scenario 2
 - What's On Tab;search function for Programming events
 
