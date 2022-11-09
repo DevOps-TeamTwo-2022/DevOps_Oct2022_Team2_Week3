@@ -37,7 +37,7 @@ def test_scenario1():
 
     time.sleep(2)
 
-    message = driver.find_element(by=By.ID, value="query").get_attribute("value");
+    message = driver.find_element(by=By.ID, value="query").get_attribute("value")
     
     value = message
     
