@@ -45,4 +45,7 @@ shown.
 Expected Test Outcomes:
 - User redirected to search results of "Programming" events
 
+Resultant Screenshot:
+![Resultant SS](images/test_scenario2_1.jpg)
+
 ===================================================
