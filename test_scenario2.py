@@ -32,6 +32,9 @@ def test_scenario2():
         
     time.sleep(1)
     
+    title = driver.title
+    assert title == "What's On"
+    
     text_box = driver.find_element(by=By.ID, value="inputKeyword")
 
     submit_button = driver.find_element(By.CLASS_NAME, "form-group.col-md-1.button-group.p-0.text-center")
@@ -42,6 +45,17 @@ def test_scenario2():
     
     submit_button.click()  
     
-    time.sleep(5)  
+    title = driver.title
+    assert title == "Discover More Happenings"
+    
+    time.sleep(1)
+    
+    message = driver.find_element(by=By.XPATH, value='//*[@id="filterEvents"]/div/section/h2/span').text
+    
+    value = message
+    
+    assert value == "Programming"
+    
+    time.sleep(5) 
     
     driver.quit()
