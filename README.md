@@ -69,4 +69,26 @@ Expected Test Outcomes:
 Resultant Screenshot:
 ![image](https://user-images.githubusercontent.com/116635185/203944439-ad3c9f3a-2e2d-43f7-86f9-e8c257c77f54.png)
 
+===================================================
+
+Test Scenario 4
+- Partner us page
+
+Test Conditions:
+- User must be at https://www.nlb.gov.sg/main/home
+- Site is online at any given time
+
+Test Values:
+- 
+
+Test Description:
+- When user reaches the homepage, a click on the partner us button will navigate the user to the about us page
+
+Expected Test Outcomes:
+- User redirected to partner us page
+
+Resultant Screenshot:
+![image](https://user-images.githubusercontent.com/116635185/204082839-07148dc0-46fc-415a-9669-732cc4524c38.png)
+
+
 
