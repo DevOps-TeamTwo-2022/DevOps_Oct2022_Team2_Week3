@@ -107,5 +107,6 @@ Expected Test Outcomes:
 - user redirected to discover and learn page
 
 Resultant Screenshot:
+![Screenshot 2022-11-29 150541](https://user-images.githubusercontent.com/99029604/204461746-066ee81f-aaa0-4d09-83c6-657f90bb0acc.png)
 
 
