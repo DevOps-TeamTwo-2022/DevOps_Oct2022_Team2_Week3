@@ -91,4 +91,21 @@ Resultant Screenshot:
 ![image](https://user-images.githubusercontent.com/116635185/204082839-07148dc0-46fc-415a-9669-732cc4524c38.png)
 
 
+Test Scenario 5
+
+Partner us page
+Test Conditions:
+- User must be at https://www.nlb.gov.sg/main/home
+- Site is online at any given time
+
+Test Values:
+
+Test Description:
+- When user reaches homepage, they click on the discover and learn button will navigate the user to the discover and learn page
+
+Expected Test Outcomes:
+- user redirected to discover and learn page
+
+Resultant Screenshot:
+
 
